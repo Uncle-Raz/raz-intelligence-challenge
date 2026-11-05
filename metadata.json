@@ -1,0 +1,6 @@
+{
+  "name": "R.A.Z Intelligence Challenge",
+  "description": "Personal IQ and knowledge challenge interactive web app with pastel anime aesthetics, 30 challenging questions, real-time analytics, and personalized evaluation letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
